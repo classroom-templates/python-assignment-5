@@ -53,10 +53,10 @@ Before beginning this assignment, you should have:
 - completed **Assignment 2: First Code**;
 - completed **Assignment 3: Shipping Cost Calculator**;
 - completed **Assignment 4: Score Analyzer**;
-- completed the decision-making material;
-- completed **Flow Control: Repetition Part I**;
-- completed **Flow Control: Repetition Part II**;
-- completed **Collections Part I**;
+- completed the decision-making material (from the previous assignment);
+- completed **Flow Control: Repetition Part I** (_06-lecture_repetition_09-10_ and accompanying notes);
+- completed **Flow Control: Repetition Part II** (_07-lecture_repetition_II_09-15_ and accompanying notes);
+- completed **Collections Part I** (_08-lecture_collections_09-17_ and accompanying notes);
 - reviewed the [Best Practices for Procedural Programming](https://katrompas.accprofessors.com/best-practice-procedural-programming);
 - reviewed the course [Commenting Guidelines](https://katrompas.accprofessors.com/commenting);
 - reviewed the [.gitignore guidelines](https://katrompas.accprofessors.com/gitignore-guidelines);
